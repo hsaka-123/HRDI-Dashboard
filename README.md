@@ -1,1 +1,2 @@
-# HRDI-Dashboard
+ HRDI-Dashboard
+  "HRDI (Human Resource Diversity and Inclusion) Project."
